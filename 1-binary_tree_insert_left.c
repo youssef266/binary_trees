@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - a function to insert a node as a lift 
+ * binary_tree_insert_left - a function to insert a node as a lift
  *
  * @parent: a pointer to the node to insert the lift child
  * @value: the value to store in the next new_node
